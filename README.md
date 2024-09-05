@@ -9,3 +9,5 @@ Creacion de git feature/i20213tn065-002 fecha:05/09/2024 HORA: 10:19
 
 
 Creacion de git feature/i20213tn065-003 fecha:05/09/2024 HORA: 10:26
+
+Segundo commit de feature/i20213tn065-003 fecha:05/09/2024 HORA: 10:17
